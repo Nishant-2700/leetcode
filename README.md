@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Nishant-2700/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Nishant-2700/leetcode/tree/master/0645-set-mismatch) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
