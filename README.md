@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Nishant-2700/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
