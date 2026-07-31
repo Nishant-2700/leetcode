@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nishant-2700/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nishant-2700/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nishant-2700/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant-2700/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nishant-2700/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Nishant-2700/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Nishant-2700/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -111,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Nishant-2700/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nishant-2700/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
