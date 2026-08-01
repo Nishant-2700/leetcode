@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nishant-2700/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nishant-2700/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Nishant-2700/leetcode/tree/master/0326-power-of-three) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishant-2700/leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Nishant-2700/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Nishant-2700/leetcode/tree/master/0342-power-of-four) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nishant-2700/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nishant-2700/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nishant-2700/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
