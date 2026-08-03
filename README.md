@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nishant-2700/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Nishant-2700/leetcode/tree/master/0500-keyboard-row) |
+| [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Nishant-2700/leetcode/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
