@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nishant-2700/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Nishant-2700/leetcode/tree/master/0409-longest-palindrome) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nishant-2700/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishant-2700/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nishant-2700/leetcode/tree/master/0292-nim-game) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nishant-2700/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Nishant-2700/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
