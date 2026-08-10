@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishant-2700/leetcode/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Nishant-2700/leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Nishant-2700/leetcode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishant-2700/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nishant-2700/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
