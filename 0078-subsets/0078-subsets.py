@@ -1,14 +1,28 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
-        subsets = []
+        res = []
 
-        for i in range(1<<n):
-            subset = []
+        def Backtrack(start,path):
+            res.append(path.copy())
 
-            for j in range(n):
-                if i & (1<<j):
-                    subset.append(nums[j])
-            subsets.append(subset)
+            for i in range(start,len(nums)):
+                path.append(nums[i])
+                Backtrack(i+1,path)
+                path.pop()
 
-        return subsets
+        Backtrack(0,[])
+        return res
+
+
+        # n = len(nums)
+        # subsets = []
+
+        # for i in range(1<<n):
+        #     subset = []
+
+        #     for j in range(n):
+        #         if i & (1<<j):
+        #             subset.append(nums[j])
+        #     subsets.append(subset)
+
+        # return subsets
