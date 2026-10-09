@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nishant-2700/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishant-2700/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nishant-2700/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Nishant-2700/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishant-2700/leetcode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/Nishant-2700/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Nishant-2700/leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Nishant-2700/leetcode/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Nishant-2700/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Nishant-2700/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Nishant-2700/leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Nishant-2700/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
